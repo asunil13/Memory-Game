@@ -1,0 +1,38 @@
+[
+    {
+        "image": "assets/aww.png",
+        "name": "aww"
+    },
+    {
+        "image": "assets/cry.png",
+        "name": "cry"
+    },
+    {
+        "image": "assets/goofy.png",
+        "name": "goofy"
+    },
+    {
+        "image": "assets/laugh.png",
+        "name": "laugh"
+    },
+    {
+        "image": "assets/sad.png",
+        "name": "sad"
+    },
+    {
+        "image": "assets/smirk.png",
+        "name": "../smirk"
+    },
+    {
+        "image": "assets/star.png",
+        "name": "star"
+    },
+    {
+        "image": "assets/tongue.png",
+        "name": "tongue"
+    },
+    {
+        "image": "assets/upset.png",
+        "name": "upset"
+    }
+]
